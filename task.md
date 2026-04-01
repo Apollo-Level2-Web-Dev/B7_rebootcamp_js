@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Task: Build a Simple CLI Program
 
 ## 📌 Objective
@@ -32,6 +31,7 @@ Your program should print:
 ## 💡 Example
 
 ### Input
+
 ```
 
 Name: Alice
@@ -40,6 +40,7 @@ Age: 22
 ```
 
 ### Output
+
 ```
 
 Hello, Alice!
@@ -48,7 +49,7 @@ You are an Adult.
 ```
 
 ## 🚀 Notes
+
 - Use Javascript.
 - Keep the code simple and readable.
 - Bonus points for clean error handling and user-friendly messages.
-```
